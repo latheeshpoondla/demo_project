@@ -1,3 +1,4 @@
 def add(a, b):
     print("Latheesh Addition worked: ",a + b)
-add(1, 2)
+print("Now you can see the difference")
+add(5, 10)
